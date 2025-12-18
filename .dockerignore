@@ -1,0 +1,12 @@
+node_modules
+src/public/dist
+dist
+.git
+.vscode
+.idea
+coverage
+npm-debug.log*
+*.log
+.DS_Store
+.env
+.env.*
